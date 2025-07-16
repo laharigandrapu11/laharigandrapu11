@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Lahari Gandrapu 👋</h1>
+<h1 align="center">Hi, I'm Sri Sai Lahari Gandrapu 👋</h1>
 
 <p align="center">
   <em>🚀 Data Science grad @ <strong>IU Bloomington</strong> | Ex-SWE @ SAP | Python | ML | Full-Stack | Cloud Enthusiast</em>
