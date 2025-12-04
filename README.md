@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sri Sai Lahari Gandrapu 👋</h1>
 
 <p align="center">
-  <em>🚀 Data Science grad @ <strong>IU Bloomington</strong> | Ex-SWE @ SAP | Python | ML | Full-Stack | Cloud Enthusiast</em>
+  <em> Data Science grad @ <strong>IU Bloomington</strong> | Ex-SWE @ SAP | Full-Stack | Python | ML </em>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ---
 
-### 👩‍💻 About Me
+### About Me
 
 - Graduate in Data Science from Indiana University Bloomington  
 - Former Software Engineer at SAP Labs (DevOps + Full-Stack + CI/CD Optimization)  
@@ -28,10 +28,10 @@
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 - **Languages:** Python, JavaScript/TypeScript, Java, R, C, C++  
-- **Frontend:** React.js, SAPUI5, HTML5/CSS3  
+- **Frontend:** React.js, HTML5/CSS3  
 - **Backend:** Node.js/Express.js, Spring Boot, Flask  
 - **DevOps:** Docker, Jenkins, GitHub Actions, Kubernetes  
 - **Cloud:** AWS (S3, EC2, Lambda), Azure (basic)  
@@ -45,5 +45,4 @@
 
 - Email: [laharigandrapu11@gmail.com](mailto:laharigandrapu11@gmail.com)  
 - LinkedIn: [linkedin.com/in/laharigandrapu](https://linkedin.com/in/laharigandrapu)  
-- Portfolio: *coming soon*  
 
