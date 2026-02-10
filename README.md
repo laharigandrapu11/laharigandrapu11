@@ -26,20 +26,6 @@
 - Advocate for scalable systems using AWS, Docker, and Kubernetes  
 - Currently exploring: AI agents, system design, and distributed data systems  
 
----
-
-### Tech Stack
-
-- **Languages:** Python, JavaScript/TypeScript, Java, R, C, C++  
-- **Frontend:** React.js, HTML5/CSS3  
-- **Backend:** Node.js/Express.js, Spring Boot, Flask  
-- **DevOps:** Docker, Jenkins, GitHub Actions, Kubernetes  
-- **Cloud:** AWS (S3, EC2, Lambda), Azure (basic)  
-- **Data/ML:** scikit-learn, Pandas, TensorFlow, Jupyter, Power BI, Tableau, Gephi  
-- **Databases:** PostgreSQL, MySQL, MongoDB, SAP HANA  
-- **Tools:** Git, Linux, Bash, Cursor, VSCode, Jupyter Notebooks, Postman  
-
----
 
 ### Let's Connect
 
