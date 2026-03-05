@@ -1,34 +1,45 @@
-<h1 align="center">Hi, I'm Sri Sai Lahari Gandrapu 👋</h1>
-
+<h1 align="center">Hi, I'm Lahari 👋</h1>
 <p align="center">
-  <em> Data Science grad @ <strong>IU Bloomington</strong> | Ex-SWE @ SAP | Full-Stack | Python | ML </em>
+  <em>Data Science grad student at IU Bloomington &nbsp;|&nbsp; Ex-SWE at SAP &nbsp;|&nbsp; ML &nbsp;|&nbsp; Full Stack &nbsp;|&nbsp; Distributed Systems</em>
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=laharigandrapu&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
-<!-- Alternatives (pick ONE and remove the others):
-<p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/laharigandrapu&title=Profile%20Views" alt="hits"/>
-</p>
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=laharigandrapu.laharigandrapu" alt="visitor badge"/>
-</p>
--->
 
 ---
 
 ### About Me
 
-- Graduate in Data Science from Indiana University Bloomington  
-- Former Software Engineer at SAP Labs (DevOps + Full-Stack + CI/CD Optimization)  
-- Passionate about building AI-powered, impactful tools — from healthcare ML to agentic travel planners  
-- Advocate for scalable systems using AWS, Docker, and Kubernetes  
-- Currently exploring: AI agents, system design, and distributed data systems  
+I spent 2.5 years at SAP building internal tools that engineering and ops teams actually used in production. That meant caring about things beyond whether code ran locally: incident resolution times, SLA compliance, provisioning pipelines, migration tooling. I reduced data center provisioning from 10 hours to 1 hour by automating 7 manual steps, and cut customer migration time from weeks to 2 hours by building a Node.js CLI that batch converted 500+ legacy artifacts.
 
+I am now finishing my MS in Data Science at Indiana University Bloomington, using that background to build ML systems the same way: with production constraints in mind, not just accuracy numbers.
+
+Most recently I built a computer vision pipeline at MyEdMaster that reduced body measurement entry time from 2 minutes to 6 seconds using MediaPipe and ResNet-50. Before that I built an AI travel planner where 6 LLM powered agents run in parallel using Celery and Redis, cutting trip planning time from 2 hours to 5 minutes.
+
+---
+
+### What I Have Built
+
+**AI Agentic Travel Planner:** 6 LLM agents (Claude + OpenAI) coordinated via Celery and Redis. Parallel execution cut end to end planning latency by 75%. Trip planning time went from 2 hours to 5 minutes.
+
+**Room Reservation System:** Microservices platform built for 1M+ concurrent users, scaling to 5M on Kubernetes. 15+ REST APIs, JWT auth, RabbitMQ async workflows, 100% unit test coverage with JUnit 5 and Mockito.
+
+**Body Measurement CV Pipeline:** Real time pose detection with MediaPipe and ResNet-50. 90% detection accuracy across varied lighting and body types. 87% reduction in measurement entry time.
+
+---
+
+### What I Work With
+
+Python, Java, JavaScript, TypeScript. Used for both backend and ML work.
+
+For ML: PyTorch, TensorFlow, scikit-learn, LangChain, OpenAI and Claude APIs, OpenCV, MediaPipe.
+
+For backend and infra: Spring Boot, Flask, FastAPI, Node.js, Docker, Kubernetes, AWS (Lambda, S3, EC2, ECS), RabbitMQ, Redis, PostgreSQL.
+
+---
 
 ### Let's Connect
 
-- Email: [laharigandrapu11@gmail.com](mailto:laharigandrapu11@gmail.com)  
-- LinkedIn: [linkedin.com/in/laharigandrapu](https://linkedin.com/in/laharigandrapu)  
-
+Email: [laharigandrapu11@gmail.com](mailto:laharigandrapu11@gmail.com)  
+LinkedIn: [linkedin.com/in/laharigandrapu](https://linkedin.com/in/laharigandrapu)  
+GitHub: [github.com/laharigandrapu11](https://github.com/laharigandrapu11)
