@@ -14,11 +14,13 @@ I spent 2.5 years at SAP building internal tools that engineering and ops teams 
 
 I am now finishing my MS in Data Science at Indiana University Bloomington, using that background to build ML systems the same way: with production constraints in mind, not just accuracy numbers.
 
-Most recently I built a computer vision pipeline at MyEdMaster that reduced body measurement entry time from 2 minutes to 6 seconds using MediaPipe and ResNet-50. Before that I built an AI travel planner where 6 LLM powered agents run in parallel using Celery and Redis, cutting trip planning time from 2 hours to 5 minutes.
+Most recently I built an agentic RAG system for intelligent document querying. A LangGraph state machine routes and decomposes complex questions, retrieves from Qdrant using sentence-transformers embeddings, and streams cited answers in real time via SSE. Deployed on Google Cloud Run with a full GitHub Actions CI/CD pipeline. Before that I built a computer vision pipeline at MyEdMaster that reduced body measurement entry time from 2 minutes to 6 seconds using MediaPipe and ResNet-50. Before that I built an AI travel planner where 6 LLM powered agents run in parallel using Celery and Redis, cutting trip planning time from 2 hours to 5 minutes.
 
 ---
 
 ### What I Have Built
+
+**Agentic RAG DocQuery:** Production-grade document intelligence platform. A LangGraph state machine routes queries, decomposes complex questions into sub-questions, retrieves from Qdrant using sentence-transformers embeddings, and synthesizes cited answers with a full hop trace. Supports PDF, DOCX, Markdown, plain text, and URLs. Real-time token streaming via SSE. Switchable LLM providers (Groq, Gemini, Mistral) mid-session. Deployed on Google Cloud Run with GitHub Actions CI/CD.
 
 **AI Agentic Travel Planner:** 6 LLM agents (Claude + OpenAI) coordinated via Celery and Redis. Parallel execution cut end to end planning latency by 75%. Trip planning time went from 2 hours to 5 minutes.
 
@@ -32,9 +34,9 @@ Most recently I built a computer vision pipeline at MyEdMaster that reduced body
 
 Python, Java, JavaScript, TypeScript. Used for both backend and ML work.
 
-For ML: PyTorch, TensorFlow, scikit-learn, LangChain, OpenAI and Claude APIs, OpenCV, MediaPipe.
+For ML: PyTorch, TensorFlow, scikit-learn, LangChain, LangGraph, OpenAI and Claude APIs, OpenCV, MediaPipe.
 
-For backend and infra: Spring Boot, Flask, FastAPI, Node.js, Docker, Kubernetes, AWS (Lambda, S3, EC2, ECS), RabbitMQ, Redis, PostgreSQL.
+For backend and infra: Spring Boot, Flask, FastAPI, Node.js, Docker, Kubernetes, AWS (Lambda, S3, EC2, ECS), GCP (Cloud Run), RabbitMQ, Redis, Qdrant, PostgreSQL.
 
 ---
 
